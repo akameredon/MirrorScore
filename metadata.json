@@ -1,0 +1,6 @@
+{
+  "name": "MirrorScore",
+  "description": "A self-directed digital self-awareness and relationship readiness platform. Audit your digital footprint, receive scored behavioral insights, track personal growth, and build healthy online communication habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
